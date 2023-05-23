@@ -15,4 +15,4 @@ https://twitter-clone-11210.web.app/
 -> FireBase to deploy
 -> MaterialUI for icons
 
-Note : Various inbuild commands are for firebase installation and deployment.
+Note : Various inbuild commands are used for firebase installation and deployment.
