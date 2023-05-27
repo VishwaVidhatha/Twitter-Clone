@@ -1,6 +1,6 @@
 # Twitter-Clone
 - Fun Front End Project of individual Twitter clone.
-- Real Time updation in firebase of tweets posed by you in the given link.
+- Real Time updation in firebase of tweets posted by you in the given link.
 - Used for Individual tweeting.
 
 # TRY IT
