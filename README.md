@@ -7,6 +7,8 @@
 https://twitter-clone-11210.web.app/
 
 # Languages used
+
+- HTML
 - JS
 - CSS
 
